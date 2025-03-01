@@ -1,4 +1,4 @@
-# Plant Segmenta1on and Trait Analysis
+# Plant Segmentation and Trait Analysis
 
 Implement a segmentation model to extract plant structures (e.g., leaves, stems) for automated trait
 measurement. Utilize SAM to segment plant images into meaningful regions.
