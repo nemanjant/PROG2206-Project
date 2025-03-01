@@ -21,15 +21,15 @@ breeding programs, and automated monitoring.
 5. Run scripts\utils\dataset.py
 6. Run scripts\train_classifier.py, where output should be like (support column should have more samples, minimum 40 for better precision):
    
-   Classification Report:
-              precision    recall  f1-score   support
+   Classification Report: <br>
+              precision    recall  f1-score   support <br>
 
-        leaf       1.00      1.00      1.00         1
-        stem       1.00      1.00      1.00         1
+        leaf       1.00      1.00      1.00         1<br>
+        stem       1.00      1.00      1.00         1<br>
 
-    accuracy                           1.00         2
-   macro avg       1.00      1.00      1.00         2
-weighted avg       1.00      1.00      1.00         2
+    accuracy                           1.00         2<br>
+   macro avg       1.00      1.00      1.00         2<br>
+weighted avg       1.00      1.00      1.00         2<br>
 
 7. Run scripts\inference.py
 8. Check results and if it's needed make changes:
