@@ -20,18 +20,8 @@ breeding programs, and automated monitoring.
 4. Make changes in labels.csv
 5. Run scripts\utils\dataset.py
 6. Run scripts\train_classifier.py, where output should be like (support column should have more samples, minimum 40 for better precision):
-   
-   Classification Report:
-              precision    recall  f1-score   support
-
-        leaf       1.00      1.00      1.00         1
-        stem       1.00      1.00      1.00         1
-    accuracy                           1.00         2
-   macro avg       1.00      1.00      1.00         2
-weighted avg       1.00      1.00      1.00         2
-
 7. Run scripts\inference.py
-8. Check results folder and if it's needed make changes:
+8. Check output graphic and data\results\plant_image_features.csv for results and if it's needed make changes:
    - Use bigger sample, more masks
    - Change masks if sample is big enough
    - Select picture with better resolution
