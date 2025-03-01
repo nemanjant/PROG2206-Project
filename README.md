@@ -21,8 +21,8 @@ breeding programs, and automated monitoring.
 5. Run scripts\utils\dataset.py
 6. Run scripts\train_classifier.py, where output should be like (support column should have more samples, minimum 40 for better precision):
    
-   Classification Report: <br>
-              precision    recall  f1-score   support 
+   Classification Report:
+              precision    recall  f1-score   support
 
         leaf       1.00      1.00      1.00         1
         stem       1.00      1.00      1.00         1
