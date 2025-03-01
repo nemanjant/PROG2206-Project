@@ -1,0 +1,9 @@
+image_name,mask_name,type
+plant_image.jpg,plant_image_mask_1.png,leaf
+plant_image.jpg,plant_image_mask_5.png,leaf
+plant_image.jpg,plant_image_mask_6.png,leaf
+plant_image.jpg,plant_image_mask_8.png,leaf
+plant_image.jpg,plant_image_mask_2.png,stem
+plant_image.jpg,plant_image_mask_15.png,stem
+plant_image.jpg,plant_image_mask_28.png,stem
+plant_image.jpg,plant_image_mask_55.png,stem
